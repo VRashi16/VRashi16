@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="37px">
 https://fonts.gstatic.com/s/e/notoemoji/latest/1f971/lottie.json
 
 <!--
