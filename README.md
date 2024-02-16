@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="37px">
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f971/lottie.json">
+<img src="https://lottiefiles.com/animations/emoji-enamorado-AJUBADTKQn">
 
 <!--
 **VRashi16/VRashi16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
