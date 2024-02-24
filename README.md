@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 ###
 ### Glad to see you here!
 
-<img align="right" alt="Gif" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" width="400" />
+<img align="right" alt="Gif" src="https://user-images.githubusercontent.com/74038190/215283295-44de9069-d569-4963-ba8f-264443a54c6d.gif" width="400" />
 
 I’m currently studying Post Graduate Diploma in Advance Computing in
 CDAC, Bangalore. 
