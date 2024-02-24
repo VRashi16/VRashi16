@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![img](images/banner2.png)
+![img](banner-git.png)
 
 
 
