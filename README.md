@@ -8,7 +8,7 @@
 ![](https://img.shields.io/badge/Peerlist-00AA45.svg?style=for-the-badge&logo=Peerlist&logoColor=white)
 ![](https://img.shields.io/badge/Codecademy-1F4056.svg?style=for-the-badge&logo=Codecademy&logoColor=white)
 
-<h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="37px">, I'm Rashi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="32"/></h1>
+<h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Rashi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="29"/></h1>
 
 ###
 
@@ -19,17 +19,17 @@
 
 <img align="right" alt="Gif" src="giphy-git.gif" width="500" />
 
--🔭 I’m currently working for [Bridged Media](http://bridged.media/)<br>
--🌱 I’m currently learning **Anything which excites me 😊**<br>
--👯 I’m looking to collaborate on **Exciting projects**<br>
--🤝 I’m looking for help with **Personal assistant**<br>
--👨‍💻 All of my projects are available at [https://www.kushalgohil.com/](https://www.kushalgohil.com/)<br>
--💬 Ask me about **CSS3, ReactJS**<br>📫 How to reach me **2002kushalgohil@gmail.com**<br>
--Know about my experiences [https://www.kushalgohil.com/Kushal%20Gohil%20Resume.pdf](https://www.kushalgohil.com/Kushal%20Gohil%20Resume.pdf)<br>
--⚡ Fun fact **I can beatbox and produce music**<br>
--📚 Currently working on Java Projects, Web Projects,<br>
--⚡ In my free time I like to travel.<br>
--📫 How to reach me: sahiltugaon@gmail.com</br>
+- 🔭 I’m currently working for [Bridged Media](http://bridged.media/)<br>
+- 🌱 I’m currently learning **Anything which excites me 😊**<br>
+- 👯 I’m looking to collaborate on **Exciting projects**<br>
+- 🤝 I’m looking for help with **Personal assistant**<br>
+- 👨‍💻 All of my projects are available at [https://www.kushalgohil.com/](https://www.kushalgohil.com/)<br>
+- 💬 Ask me about **CSS3, ReactJS**<br>📫 How to reach me **2002kushalgohil@gmail.com**<br>
+- Know about my experiences [https://www.kushalgohil.com/Kushal%20Gohil%20Resume.pdf](https://www.kushalgohil.com/Kushal%20Gohil%20Resume.pdf)<br>
+- ⚡ Fun fact **I can beatbox and produce music**<br>
+- 📚 Currently working on Java Projects, Web Projects,<br>
+- ⚡ In my free time I like to travel.<br>
+- 📫 How to reach me: sahiltugaon@gmail.com</br>
 
 
 ###
