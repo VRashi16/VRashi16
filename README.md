@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
  
 
@@ -32,34 +32,28 @@ Here are some ideas to get you started:
 
 ###
 
-<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="37px">, I'm Sahil Tugaon <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="32"/></h1>
+<h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="37px">, I'm Rashi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="32"/></h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">💫  About Me</h3>
 
 ###
-### Glad to see you here!
+
 
 <img align="right" alt="Gif" src="giphy-git.gif" width="500" />
 
-I’m currently studying Post Graduate Diploma in Advance Computing in
-CDAC, Bangalore. 
-
-Love interacting with the community, share knowledge and learn new things.
-
-**Talking About me:**
-
-- 👨 I’m Sahil Tugaon (sahiltugaon).
-- 😄 Pronouns: he/him/his.
-- 🏢 I currently study at CDAC Bangalore.
-- 💬 Ask me about anything, I am happy to help.
-- 📚 I'm currently learning Advance Java, Springboot, Hibernate
-- 📚 Currently working on Java Projects, Web Projects
-- ⚡ In my free time I like to travel.
-- 📫 How to reach me: sahiltugaon@gmail.com
-
-</br>
+-🔭 I’m currently working for [Bridged Media](http://bridged.media/)<br>
+-🌱 I’m currently learning **Anything which excites me 😊**<br>
+-👯 I’m looking to collaborate on **Exciting projects**<br>
+-🤝 I’m looking for help with **Personal assistant**<br>
+-👨‍💻 All of my projects are available at [https://www.kushalgohil.com/](https://www.kushalgohil.com/)<br>
+-💬 Ask me about **CSS3, ReactJS**<br>📫 How to reach me **2002kushalgohil@gmail.com**<br>
+-Know about my experiences [https://www.kushalgohil.com/Kushal%20Gohil%20Resume.pdf](https://www.kushalgohil.com/Kushal%20Gohil%20Resume.pdf)<br>
+-⚡ Fun fact **I can beatbox and produce music**<br>
+-📚 Currently working on Java Projects, Web Projects,<br>
+-⚡ In my free time I like to travel.<br>
+-📫 How to reach me: sahiltugaon@gmail.com</br>
 
 
 ###
