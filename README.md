@@ -13,23 +13,30 @@
 
 
 <h3 align="left">💫  About Me</h3>
+<div>
+  <div align="top">
+    <img align="right" alt="Gif" src="giphy-git.gif" width="450" />
+  </div>
 
-<img align="right" alt="Gif" src="giphy-git.gif" width="500" />
+  <div align="left">
 
-
-*   🔭 I’m currently working for [Bridged Media](http://bridged.media/)
-*   🌱 I’m currently learning **Anything which excites me 😊**
-*   👯 I’m looking to collaborate on **Exciting projects**
-*   🤝 I’m looking for help with **Personal assistant**
-*   👨‍💻 All of my projects are available at [https://www.kushalgohil.com/](https://www.kushalgohil.com/)
-*   💬 Ask me about **JavaScript, ReactJS**
-*   📫 How to reach me **rvtugaon@gmail.com**
-*   ⚡ Fun fact **I can beatbox and produce music**
-*   📚 Currently working on React Projects, Exploring new technologies
-*   ⚡ In my free time I like to travel, paint, cook.
+  *   🔭 I’m currently working for [Bridged Media](http://bridged.media/)
+  *   🌱 I’m currently learning **Anything which excites me**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25"/>
+  *   👯 I’m looking to collaborate on **Exciting projects**
+  *   👨‍💻 All of my projects are available at [https://www.kushalgohil.com/](https://www.kushalgohil.com/)
+  *   💬 Ask me about **JavaScript, ReactJS**
+  *   📫 How to reach me **rvtugaon@gmail.com**
+  *   ⚡ In my free time I like to **travel, paint, cook**
+  *   📚 Currently working on **React Projects, exploring new technologies**
+  *   🌱Interested to work deeply in **Frontend** while getting better at Backend
+  
 
 </div>
-
+<br>
+<br>
+<br>
+<br>
+<br>
 <h3 align="left">🛠 Skills</h3>
 
 ###
