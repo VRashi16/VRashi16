@@ -9,32 +9,26 @@
 ![](https://img.shields.io/badge/Codecademy-1F4056.svg?style=for-the-badge&logo=Codecademy&logoColor=white)
 
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Rashi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="29"/></h1>
+</div>
 
-###
 
 <h3 align="left">💫  About Me</h3>
 
-###
-
-<div>
-  <div>
 <img align="right" alt="Gif" src="giphy-git.gif" width="500" />
-</div>
 
-  
-- 🔭 I’m currently working for [Bridged Media](http://bridged.media/)
-- 🌱 I’m currently learning **Anything which excites me 😊**
-- 👯 I’m looking to collaborate on **Exciting projects**
-- 🤝 I’m looking for help with **Personal assistant**
-- 👨‍💻 All of my projects are available at [https://www.kushalgohil.com/](https://www.kushalgohil.com/)
-- 💬 Ask me about **CSS3, ReactJS**<br>📫 How to reach me **2002kushalgohil@gmail.com**
-- ⚡ Fun fact **I can beatbox and produce music**
-- 📚 Currently working on Java Projects, Web Projects
-- ⚡ In my free time I like to travel.
-- 📫 How to reach me: sahiltugaon@gmail.com
+
+*   🔭 I’m currently working for [Bridged Media](http://bridged.media/)
+*   🌱 I’m currently learning **Anything which excites me 😊**
+*   👯 I’m looking to collaborate on **Exciting projects**
+*   🤝 I’m looking for help with **Personal assistant**
+*   👨‍💻 All of my projects are available at [https://www.kushalgohil.com/](https://www.kushalgohil.com/)
+*   💬 Ask me about **JavaScript, ReactJS**
+*   📫 How to reach me **rvtugaon@gmail.com**
+*   ⚡ Fun fact **I can beatbox and produce music**
+*   📚 Currently working on React Projects, Exploring new technologies
+*   ⚡ In my free time I like to travel, paint, cook.
 
 </div>
-###
 
 <h3 align="left">🛠 Skills</h3>
 
