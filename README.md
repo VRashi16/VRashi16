@@ -11,12 +11,12 @@
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Rashi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="29"/></h1>
 </div>
 
-
+<div align="top">
+    <img align="right" alt="Gif" src="giphy-git1.gif" width="290" />
+  </div>
 <h3 align="left">💫  About Me</h3>
 <div>
-  <div align="top">
-    <img align="right" alt="Gif" src="giphy-git.gif" width="450" />
-  </div>
+  
 
   <div align="left">
 
