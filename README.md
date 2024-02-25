@@ -14,7 +14,7 @@
 <div align="top">
     <img align="right" alt="Gif" src="giphy-git1.gif" width="290" />
   </div>
-<h3 align="left">💫  About Me</h3>
+<h3 align="left">💫  About Me:</h3>
 <div>
   
 
@@ -34,7 +34,7 @@
 <br>
 
 
-<h3 align="left">🛠 Skills</h3>
+<h3 align="left">🛠 Skills:</h3>
 <div align="left">
     
 ![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
@@ -65,39 +65,25 @@
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
 ![](https://img.shields.io/badge/Axios-5A29E4.svg?style=for-the-badge&logo=Axios&logoColor=white)
-###
 
-<h3 align="left">🛠 Language and Tools</h3>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Stats:</h3>
 
 ###
 
 
 
 <div align="left">
-  <img height="180em" src="https://streak-stats.demolab.com?user=sahiltugaon&locale=en&mode=daily&theme=light&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahiltugaon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img height="180em" src="https://streak-stats.demolab.com?user=vrashi16&locale=en&mode=daily&theme=light&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vrashi16&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
 
 
 
