@@ -23,7 +23,7 @@
   *   🔭 I’m currently working for [Bridged Media](http://bridged.media/)
   *   🌱 I’m currently learning **Anything which excites me😊**
   *   👯 I’m looking to collaborate on **Exciting projects**
-  *   👨‍💻 All of my projects are available at [https://www.kushalgohil.com/](https://www.kushalgohil.com/)
+  *   👨‍💻 All of my projects are available at [xyz](xyz)
   *   💬 Ask me about **JavaScript, ReactJS**
   *   📫 How to reach me **rvtugaon@gmail.com**
   *   ⚡ In my free time I like to **travel, paint, cook**
